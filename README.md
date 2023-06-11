@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Frontend Chat bot WhatsApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![App Screenshot](https://raw.githubusercontent.com/danielr3b1/Frontend-chat-bot-whatsapp/main/screens/screen-chatbot-whatsapp.png)
 
 ## Available Scripts
 
